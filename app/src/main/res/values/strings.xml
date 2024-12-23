@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">RecyclerContacts</string>
+    <string name="contacts_add">Add Contact</string>
+    <string name="contacts_delete">Delete contact</string>
+    <string name="delete_accept">Accept</string>
+    <string name="delete_cancel">Cancel</string>
+    <string name="dialog_firstname">First Name</string>
+    <string name="dialog_secondname">Second Name</string>
+    <string name="dialog_phone">Phone number</string>
+    <string name="dialog_save">Save</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="contacts_edit">Edit contact</string>
 </resources>
