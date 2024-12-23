@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecyclerContacts</string>
+    <string name="contacts_add">Добавить контакт</string>
+    <string name="contacts_delete">Удалить контакты</string>
+    <string name="delete_accept">Потвердить</string>
+    <string name="delete_cancel">Отмена</string>
+    <string name="dialog_firstname">Имя</string>
+    <string name="dialog_secondname">Фамилия</string>
+    <string name="dialog_phone">Номер телефона</string>
+    <string name="dialog_save">Сохранить</string>
+    <string name="dialog_cancel">Отмена</string>
+    <string name="contacts_edit">Редактировать контакт</string>
+</resources>
